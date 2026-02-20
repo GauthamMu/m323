@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "hello",
+      "mainClass": "hello",
+      "buildTarget": "file:/home/heartbroken/m323/.scala-build/?id=m323_d5c0a6989e",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}
