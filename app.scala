@@ -1,3 +1,5 @@
+// Diese App ist ein Conway's Game of Life simulator. Momentan (27. Feb) macht er einen Glider.
+
 type Grid = Vector[Vector[Boolean]]
 
 def render(grid: Grid): Unit =
