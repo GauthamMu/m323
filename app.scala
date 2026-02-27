@@ -5,14 +5,17 @@ def render(grid: Grid): Unit =
     println(row.map(cell => if (cell) "O" else ".").mkString(" "))
   }
 
-def evolve(grid: Grid): Grid = grid
+def evolve(grid: Grid): Grid =
+  var newGrid = Vector.fill(20, 20)(false)
+	// A buncha code that applies Conway's Game of Life
+	// newGrid // I want to return this
 
 @main def run(): Unit =
-  var grid = Vector.fill(5, 5)(false)
+  var grid = Vector.fill(20, 20)(false)
 
   while (true) {
     println("\u001b[H\u001b[2J") // clear screen
     render(grid)
-    Thread.sleep(300)
+    Thread.sleep(1000) // Pause for a second
     grid = evolve(grid)
   }
