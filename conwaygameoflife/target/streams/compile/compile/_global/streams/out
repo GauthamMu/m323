@@ -1,0 +1,37 @@
+[0m[[0m[31merror[0m] [0m[0m/home/heartbroken/m323/conwaygameoflife/src/main/scala/conwaygameoflife/ConwayGameOfLife copy.scala:10:1: expected start of definition[0m
+[0m[[0m[31merror[0m] [0m[0mval javascriptLogo: String = js.native[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/heartbroken/m323/conwaygameoflife/src/main/scala/conwaygameoflife/ConwayGameOfLife copy.scala:13:1: expected start of definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef LiveChart(): Unit =[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/heartbroken/m323/conwaygameoflife/src/main/scala/conwaygameoflife/ConwayGameOfLife copy.scala:32:3: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m  setupCounter(dom.document.getElementById("counter"))[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/heartbroken/m323/conwaygameoflife/src/main/scala/conwaygameoflife/ConwayGameOfLife copy.scala:33:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mend LiveChart[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/heartbroken/m323/conwaygameoflife/src/main/scala/conwaygameoflife/ConwayGameOfLife copy.scala:35:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef setupCounter(element: dom.Element): Unit =[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/heartbroken/m323/conwaygameoflife/src/main/scala/conwaygameoflife/ConwayGameOfLife copy.scala:38:3: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m  def setCounter(count: Int): Unit =[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/heartbroken/m323/conwaygameoflife/src/main/scala/conwaygameoflife/ConwayGameOfLife copy.scala:40:5: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m    element.innerHTML = s"count is $counter"[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/heartbroken/m323/conwaygameoflife/src/main/scala/conwaygameoflife/ConwayGameOfLife copy.scala:42:3: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m  element.addEventListener("click", e => setCounter(counter + 1))[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/heartbroken/m323/conwaygameoflife/src/main/scala/conwaygameoflife/ConwayGameOfLife copy.scala:43:3: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m  setCounter(0)[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/heartbroken/m323/conwaygameoflife/src/main/scala/conwaygameoflife/ConwayGameOfLife copy.scala:44:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mend setupCounter[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/heartbroken/m323/conwaygameoflife/src/main/scala/conwaygameoflife/ConwayGameOfLife.scala:39:4: illegal start of simple expression[0m
+[0m[[0m[31merror[0m] [0m[0m	  var counter = 0[0m
+[0m[[0m[31merror[0m] [0m[0m	  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/heartbroken/m323/conwaygameoflife/src/main/scala/conwaygameoflife/ConwayGameOfLife.scala:48:18: '}' expected but eof found.[0m
+[0m[[0m[31merror[0m] [0m[0m	end setupCounter[0m
+[0m[[0m[31merror[0m] [0m[0m	                ^[0m
+[0m[[0m[31merror[0m] [0m[0m12 errors found[0m
