@@ -18,11 +18,13 @@ npm install
 Run both sbt and Vite in parallel — open two terminals:
 
 **Terminal 1 — sbt (Scala compiler, watching for changes):**
+
 ```bash
-sbt ~fastLinkJS
+sbt clean fastLinkJS
 ```
 
 **Terminal 2 — Vite (dev server with hot reload):**
+
 ```bash
 npm run dev
 ```
@@ -38,6 +40,6 @@ npm run build
 
 ## How it works
 
-- `sbt ~fastLinkJS` compiles Scala to an ES module and watches for changes
+- `sbt clean fastLinkJS` compiles Scala to an ES module and watches for changes
 - `@scala-js/vite-plugin-scalajs` tells Vite where to find the compiled output
 - Vite serves and hot-reloads the result in the browser

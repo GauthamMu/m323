@@ -4,6 +4,8 @@ enablePlugins(ScalaJSPlugin)
 
 name := "scalajs-vite"
 
+scalaJSUseMainModuleInitializer := true
+
 // Emit ES modules for Vite compatibility
 scalaJSLinkerConfig ~= { _.withModuleKind(ModuleKind.ESModule) }
 

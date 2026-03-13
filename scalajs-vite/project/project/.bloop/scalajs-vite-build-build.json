@@ -215,7 +215,7 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "/usr/lib/jvm/jdk-21.0.1+12",
+                "home": "/usr/lib/jvm/java-21-openjdk-amd64",
                 "options": [
                     "-Duser.dir=/home/heartbroken/m323/scalajs-vite/project/project"
                 ]
@@ -224,7 +224,7 @@
                 
             ],
             "runtimeConfig": {
-                "home": "/usr/lib/jvm/jdk-21.0.1+12",
+                "home": "/usr/lib/jvm/java-21-openjdk-amd64",
                 "options": [
                     "-Duser.dir=/home/heartbroken/m323/scalajs-vite/project/project"
                 ]
