@@ -25,3 +25,14 @@
 2026.03.13 08:47:30 INFO  time: ran 'sbt bloopInstall' in 19s
 2026.03.13 08:47:30 INFO  Attempting to connect to the build server...
 2026.03.13 08:47:30 INFO  No running Bloop server found, starting one.
+2026.03.13 08:47:47 INFO  Starting compilation server
+2026.03.13 08:47:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/heartbroken/m323/.metals/bsp.trace.json or /home/heartbroken/.cache/metals/bsp.trace.json
+2026.03.13 08:47:52 INFO  time: Connected to build server in 21s
+2026.03.13 08:47:52 INFO  Connected to Build server: Bloop v2.0.19
+2026.03.13 08:47:52 INFO  time: Imported build in 0.21s
+2026.03.13 08:48:00 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.13 08:48:01 INFO  time: indexed workspace in 9.12s
+2026.03.13 08:48:02 INFO  compiling scalajs-vite (1 scala source)
+2026.03.13 08:48:05 INFO  time: compiled scalajs-vite in 3.87s
+2026.03.13 08:48:05 INFO  Created report: Optional.empty
+2026.03.13 08:48:05 INFO  JavaScript linking failed with ''org.scalajs.linker.interface.StandardConfig org.scalajs.linker.inte... (full report at: "/home/heartbroken/m323/.metals/.reports/bloop/2026-03-13/r_JavaScript linking f..._08-48-05-969.md")
