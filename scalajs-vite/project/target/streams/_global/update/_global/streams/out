@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/home/heartbroken/m323/scalajs-vite/project/"), "scalajs-vite-build")...[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating scalajs-vite-build[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved scalajs-vite-build dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of scalajs-vite-build[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of scalajs-vite-build[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/home/heartbroken/m323/scalajs-vite/project/"), "scalajs-vite-build")[0m
