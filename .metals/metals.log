@@ -9,3 +9,19 @@
 2026.03.13 08:47:17 INFO  no build target found for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
 2026.03.13 08:47:18 INFO  [info] loading settings for project scalajs-vite-build-build-build from metals.sbt ...
 2026.03.13 08:47:18 INFO  [info] loading project definition from /home/heartbroken/m323/scalajs-vite/project/project/project
+2026.03.13 08:47:21 INFO  [info] loading settings for project scalajs-vite-build-build from metals.sbt ...
+2026.03.13 08:47:21 INFO  [info] loading project definition from /home/heartbroken/m323/scalajs-vite/project/project
+2026.03.13 08:47:23 INFO  [success] Generated .bloop/scalajs-vite-build-build.json
+2026.03.13 08:47:23 INFO  [success] Total time: 2 s, completed Mar 13, 2026, 8:47:23 AM
+2026.03.13 08:47:23 INFO  [info] loading settings for project scalajs-vite-build from metals.sbt,plugins.sbt ...
+2026.03.13 08:47:23 INFO  [info] loading project definition from /home/heartbroken/m323/scalajs-vite/project
+2026.03.13 08:47:25 INFO  [success] Generated .bloop/scalajs-vite-build.json
+2026.03.13 08:47:25 INFO  [success] Total time: 1 s, completed Mar 13, 2026, 8:47:25 AM
+2026.03.13 08:47:27 INFO  [info] loading settings for project scalajs-vite from build.sbt ...
+2026.03.13 08:47:27 INFO  [info] set current project to scalajs-vite (in build file:/home/heartbroken/m323/scalajs-vite/)
+2026.03.13 08:47:30 INFO  [success] Generated .bloop/scalajs-vite-test.json
+2026.03.13 08:47:30 INFO  [success] Generated .bloop/scalajs-vite.json
+2026.03.13 08:47:30 INFO  [success] Total time: 3 s, completed Mar 13, 2026, 8:47:30 AM
+2026.03.13 08:47:30 INFO  time: ran 'sbt bloopInstall' in 19s
+2026.03.13 08:47:30 INFO  Attempting to connect to the build server...
+2026.03.13 08:47:30 INFO  No running Bloop server found, starting one.

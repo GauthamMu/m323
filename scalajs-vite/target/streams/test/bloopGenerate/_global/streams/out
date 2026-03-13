@@ -1,0 +1,4 @@
+[debug] [scalajs-vite-test] Classpath dependencies List()
+[debug] [scalajs-vite-test] Dependencies from configurations List(scalajs-vite)
+[debug] Bloop wrote the configuration of project 'scalajs-vite-test' to '/home/heartbroken/m323/scalajs-vite/.bloop/scalajs-vite-test.json'
+[success] Generated .bloop/scalajs-vite-test.json
