@@ -644,3 +644,75 @@ WARNING: Unmatched cancel notification for request id 1628
 2026.03.27 09:46:18 INFO  time: compiled scalajs-vite in 0.69s
 2026.03.27 09:46:31 INFO  compiling scalajs-vite (1 scala source)
 2026.03.27 09:46:31 INFO  time: compiled scalajs-vite in 0.9s
+2026.03.27 09:55:03 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:55:06 INFO  time: compiled scalajs-vite in 3.48s
+2026.03.27 09:55:06 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:55:07 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 09:55:09 INFO  time: compiled scalajs-vite in 2.44s
+2026.03.27 09:55:25 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:55:25 INFO  time: compiled scalajs-vite in 0.71s
+Mar 27, 2026 9:55:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1936
+2026.03.27 09:55:33 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:55:33 INFO  time: compiled scalajs-vite in 0.59s
+2026.03.27 09:55:42 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:55:42 INFO  time: compiled scalajs-vite in 0.78s
+2026.03.27 09:55:53 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:55:53 INFO  time: compiled scalajs-vite in 0.28s
+2026.03.27 09:55:59 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:55:59 INFO  time: compiled scalajs-vite in 0.59s
+2026.03.27 09:56:04 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:56:04 INFO  time: compiled scalajs-vite in 0.65s
+2026.03.27 09:56:49 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:56:49 INFO  time: compiled scalajs-vite in 0.58s
+2026.03.27 09:56:51 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:56:51 INFO  time: compiled scalajs-vite in 0.3s
+2026.03.27 09:56:54 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:56:54 INFO  time: compiled scalajs-vite in 0.52s
+2026.03.27 09:56:58 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:56:58 INFO  time: compiled scalajs-vite in 0.47s
+2026.03.27 09:56:59 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:56:59 INFO  time: compiled scalajs-vite in 0.33s
+2026.03.27 09:56:59 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 09:57:01 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 09:57:02 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 09:57:02 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:57:02 INFO  time: compiled scalajs-vite in 0.4s
+2026.03.27 09:57:05 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:57:05 INFO  time: compiled scalajs-vite in 0.42s
+2026.03.27 09:57:08 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:57:08 INFO  time: compiled scalajs-vite in 0.6s
+2026.03.27 09:57:59 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:57:59 INFO  time: compiled scalajs-vite in 0.94s
+2026.03.27 09:58:01 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:58:01 INFO  time: compiled scalajs-vite in 0.74s
+2026.03.27 09:58:02 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:58:02 INFO  time: compiled scalajs-vite in 0.55s
+2026.03.27 09:58:10 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 09:58:10 INFO  time: compiled scalajs-vite in 0.6s
+2026.03.27 09:58:11 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:02:26 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:02:34 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:02:35 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:02:35 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:02:35 INFO  time: compiled scalajs-vite in 0.64s
+2026.03.27 10:02:56 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:02:56 INFO  time: compiled scalajs-vite in 0.37s
+2026.03.27 10:03:45 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:03:45 INFO  time: compiled scalajs-vite in 0.5s
+2026.03.27 10:05:30 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:05:30 INFO  time: compiled scalajs-vite in 0.5s
+2026.03.27 10:05:36 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:05:36 INFO  time: compiled scalajs-vite in 0.42s
+2026.03.27 10:05:39 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:05:39 INFO  time: compiled scalajs-vite in 0.65s
+2026.03.27 10:05:42 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:05:42 INFO  time: compiled scalajs-vite in 0.47s
+2026.03.27 10:05:44 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:05:44 INFO  time: compiled scalajs-vite in 0.78s
+2026.03.27 10:06:21 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:06:21 INFO  time: compiled scalajs-vite in 0.56s
+2026.03.27 10:06:24 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:06:24 INFO  time: compiled scalajs-vite in 0.4s
+2026.03.27 10:07:03 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:07:03 INFO  time: compiled scalajs-vite in 0.64s

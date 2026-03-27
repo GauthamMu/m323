@@ -1028,6 +1028,9 @@ $c_Lapp_Main$package$.prototype.Main__V = (function() {
       var checkbox = document.createElement("input");
       checkbox.type = "checkbox";
       checkbox.style = "margin: 0; display: block;";
+      checkbox.onchange = ((checkbox) => ((_$2) => {
+        checkbox.style.backgroundColor = ($uZ(checkbox.checked) ? "black" : "");
+      }))(checkbox);
       tableData.appendChild(checkbox);
       tableRow.appendChild(tableData);
       if ((i$1 === 39)) {
@@ -1043,7 +1046,7 @@ $c_Lapp_Main$package$.prototype.Main__V = (function() {
   }
   var app2 = document.getElementById("app2");
   app2.appendChild(table);
-  button.addEventListener("click", ((_$2) => {
+  button.addEventListener("click", ((_$3) => {
     var dimensions = new $ac_I(new Int32Array([40, 40]));
     var currentState = $asArrayOf_Z($m_jl_reflect_Array$().newInstance__jl_Class__AI__O($d_Z.getClassOf(), dimensions), 2);
     var i$2 = 0;
