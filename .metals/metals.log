@@ -716,3 +716,125 @@ WARNING: Unmatched cancel notification for request id 1936
 2026.03.27 10:06:24 INFO  time: compiled scalajs-vite in 0.4s
 2026.03.27 10:07:03 INFO  compiling scalajs-vite (1 scala source)
 2026.03.27 10:07:03 INFO  time: compiled scalajs-vite in 0.64s
+2026.03.27 10:52:31 INFO  compiling scalajs-vite (1 scala source)
+Mar 27, 2026 10:52:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2495
+2026.03.27 10:52:36 INFO  time: compiled scalajs-vite in 4.94s
+2026.03.27 10:52:36 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:52:36 INFO  time: compiled scalajs-vite in 0.68s
+2026.03.27 10:52:43 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:52:46 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:52:47 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:52:47 INFO  time: compiled scalajs-vite in 0.43s
+2026.03.27 10:52:47 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:52:58 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:01 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:01 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:02 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:02 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:03 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:04 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:53:04 INFO  time: compiled scalajs-vite in 0.36s
+2026.03.27 10:53:04 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:06 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:06 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:53:06 INFO  time: compiled scalajs-vite in 0.27s
+2026.03.27 10:53:07 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:08 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:53:08 INFO  time: compiled scalajs-vite in 0.71s
+2026.03.27 10:53:09 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:10 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:11 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:12 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:13 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:13 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:53:13 INFO  time: compiled scalajs-vite in 0.27s
+2026.03.27 10:53:14 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:15 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:17 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:18 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:18 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:53:18 INFO  time: compiled scalajs-vite in 0.27s
+2026.03.27 10:53:19 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:20 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:21 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:53:21 INFO  time: compiled scalajs-vite in 0.21s
+2026.03.27 10:53:22 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:22 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:24 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:25 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:26 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:53:26 INFO  time: compiled scalajs-vite in 0.25s
+2026.03.27 10:53:26 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:28 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:30 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:31 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:31 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:53:31 INFO  time: compiled scalajs-vite in 0.56s
+2026.03.27 10:53:32 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:35 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:36 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:53:36 INFO  time: compiled scalajs-vite in 0.54s
+2026.03.27 10:53:37 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:37 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:53:38 INFO  time: compiled scalajs-vite in 1.17s
+2026.03.27 10:53:42 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:53:42 INFO  time: compiled scalajs-vite in 0.52s
+2026.03.27 10:53:46 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:53:46 INFO  time: compiled scalajs-vite in 0.53s
+2026.03.27 10:53:47 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:53:47 INFO  time: compiled scalajs-vite in 0.21s
+2026.03.27 10:53:48 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:51 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:51 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:53:51 INFO  time: compiled scalajs-vite in 0.21s
+2026.03.27 10:53:52 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:56 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:53:57 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:53:57 INFO  time: compiled scalajs-vite in 0.19s
+2026.03.27 10:53:57 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:00 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:00 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:54:00 INFO  time: compiled scalajs-vite in 0.2s
+2026.03.27 10:54:01 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:09 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:09 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:10 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:54:10 INFO  time: compiled scalajs-vite in 0.2s
+2026.03.27 10:54:11 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:13 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:13 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:54:13 INFO  time: compiled scalajs-vite in 0.2s
+2026.03.27 10:54:14 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:22 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:22 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:23 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:54:23 INFO  time: compiled scalajs-vite in 0.24s
+2026.03.27 10:54:24 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:25 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:26 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:27 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:54:27 INFO  time: compiled scalajs-vite in 0.24s
+2026.03.27 10:54:27 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:28 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:29 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:54:29 INFO  time: compiled scalajs-vite in 0.19s
+2026.03.27 10:54:29 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:34 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:35 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:54:35 INFO  time: compiled scalajs-vite in 0.21s
+2026.03.27 10:54:35 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:41 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:54:42 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:54:42 INFO  time: compiled scalajs-vite in 0.17s
+2026.03.27 10:54:42 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:55:15 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:55:18 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:55:19 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:55:19 INFO  time: compiled scalajs-vite in 0.3s
+2026.03.27 10:55:19 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:55:25 WARN  Could not load snapshot text for /home/heartbroken/m323/scalajs-vite/src/main/scala/Main.scala
+2026.03.27 10:55:25 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 10:55:25 INFO  time: compiled scalajs-vite in 0.58s
+2026.03.27 11:01:31 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:01:31 INFO  time: compiled scalajs-vite in 0.79s
