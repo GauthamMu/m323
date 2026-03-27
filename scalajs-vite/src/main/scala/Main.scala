@@ -27,7 +27,7 @@ import org.scalajs.dom.html
   app.appendChild(counter)
   app.appendChild(button)
 
-  val table = document.createElement("table")
+  val table = document.createElement("table").asInstanceOf[html.Table]
 
   for (w <- 0 to 39) {
     val tableRow = document.createElement("tr")
@@ -44,3 +44,49 @@ import org.scalajs.dom.html
 
   val app2 = document.getElementById("app2")
   app2.appendChild(table)
+
+  // Start newly AI generated code
+
+  button.addEventListener(
+    "click",
+    _ => {
+      // Read current state
+      val currentState = Array.ofDim[Boolean](40, 40)
+      for (r <- 0 until 40; c <- 0 until 40) {
+        val row = table.rows(r).asInstanceOf[html.TableRow]
+        val cell = row.cells(c).asInstanceOf[html.TableCell]
+        val checkbox = cell.firstChild.asInstanceOf[html.Input]
+        currentState(r)(c) = checkbox.checked
+      }
+
+      // Compute next state
+      val nextState = Array.ofDim[Boolean](40, 40)
+      for (r <- 0 until 40; c <- 0 until 40) {
+        val liveNeighbors =
+          (-1 to 1)
+            .flatMap(dr => (-1 to 1).map(dc => (dr, dc)))
+            .filterNot { case (dr, dc) => dr == 0 && dc == 0 }
+            .count { case (dr, dc) =>
+              val nr = r + dr
+              val nc = c + dc
+              nr >= 0 && nr < 40 && nc >= 0 && nc < 40 && currentState(nr)(nc)
+            }
+
+        nextState(r)(c) = currentState(r)(c) match {
+          case true  => liveNeighbors == 2 || liveNeighbors == 3
+          case false => liveNeighbors == 3
+        }
+      }
+
+      // Update checkboxes
+      for (r <- 0 until 40; c <- 0 until 40) {
+        val checkbox =
+          val row = table.rows(r).asInstanceOf[html.TableRow]
+          val cell = row.cells(c).asInstanceOf[html.TableCell]
+          cell.firstChild.asInstanceOf[html.Input]
+        checkbox.checked = nextState(r)(c)
+      }
+    }
+  )
+
+  // End newly AI generated code
