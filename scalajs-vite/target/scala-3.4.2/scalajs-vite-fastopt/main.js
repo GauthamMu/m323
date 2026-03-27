@@ -953,6 +953,31 @@ $c_Lapp_Main$package$.prototype.Main__V = (function() {
   app.appendChild(heading);
   app.appendChild(counter);
   app.appendChild(button);
+  var table = document.createElement("table");
+  var i = 0;
+  while (true) {
+    var tableRow = document.createElement("tr");
+    var i$1 = 0;
+    while (true) {
+      var tableData = document.createElement("td");
+      var checkbox = document.createElement("input");
+      checkbox.type = "checkbox";
+      checkbox.style = "margin: 0; display: block;";
+      tableData.appendChild(checkbox);
+      tableRow.appendChild(tableData);
+      if ((i$1 === 39)) {
+        break;
+      }
+      i$1 = ((1 + i$1) | 0);
+    }
+    table.appendChild(tableRow);
+    if ((i === 39)) {
+      break;
+    }
+    i = ((1 + i) | 0);
+  }
+  var app2 = document.getElementById("app2");
+  app2.appendChild(table);
 });
 var $d_Lapp_Main$package$ = new $TypeData().initClass($c_Lapp_Main$package$, "app.Main$package$", ({
   Lapp_Main$package$: 1
