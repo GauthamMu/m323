@@ -27,11 +27,13 @@ import org.scalajs.dom.html
   app.appendChild(counter)
   app.appendChild(button)
 
+  val tableSize = 60;
+
   val table = document.createElement("table").asInstanceOf[html.Table]
 
-  for (w <- 0 to 39) {
+  for (w <- 0 to (tableSize - 1)) {
     val tableRow = document.createElement("tr")
-    for (x <- 0 to 39) {
+    for (x <- 0 to (tableSize - 1)) {
       val tableData = document.createElement("td")
       val checkbox = document.createElement("input").asInstanceOf[html.Input]
       checkbox.`type` = "checkbox"
@@ -51,8 +53,8 @@ import org.scalajs.dom.html
     "click",
     _ => {
       // Read current state
-      val currentState = Array.ofDim[Boolean](40, 40)
-      for (r <- 0 until 40; c <- 0 until 40) {
+      val currentState = Array.ofDim[Boolean](tableSize, tableSize)
+      for (r <- 0 until tableSize; c <- 0 until tableSize) {
         val row = table.rows(r).asInstanceOf[html.TableRow]
         val cell = row.cells(c).asInstanceOf[html.TableCell]
         val checkbox = cell.firstChild.asInstanceOf[html.Input]
@@ -60,8 +62,8 @@ import org.scalajs.dom.html
       }
 
       // Compute next state
-      val nextState = Array.ofDim[Boolean](40, 40)
-      for (r <- 0 until 40; c <- 0 until 40) {
+      val nextState = Array.ofDim[Boolean](tableSize, tableSize)
+      for (r <- 0 until tableSize; c <- 0 until tableSize) {
         val liveNeighbors =
           (-1 to 1)
             .flatMap(dr => (-1 to 1).map(dc => (dr, dc)))
@@ -69,7 +71,9 @@ import org.scalajs.dom.html
             .count { case (dr, dc) =>
               val nr = r + dr
               val nc = c + dc
-              nr >= 0 && nr < 40 && nc >= 0 && nc < 40 && currentState(nr)(nc)
+              nr >= 0 && nr < tableSize && nc >= 0 && nc < tableSize && currentState(
+                nr
+              )(nc)
             }
 
         nextState(r)(c) = currentState(r)(c) match {
@@ -79,7 +83,7 @@ import org.scalajs.dom.html
       }
 
       // Update checkboxes
-      for (r <- 0 until 40; c <- 0 until 40) {
+      for (r <- 0 until tableSize; c <- 0 until tableSize) {
         val checkbox =
           val row = table.rows(r).asInstanceOf[html.TableRow]
           val cell = row.cells(c).asInstanceOf[html.TableCell]

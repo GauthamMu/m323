@@ -838,3 +838,65 @@ WARNING: Unmatched cancel notification for request id 2495
 2026.03.27 10:55:25 INFO  time: compiled scalajs-vite in 0.58s
 2026.03.27 11:01:31 INFO  compiling scalajs-vite (1 scala source)
 2026.03.27 11:01:31 INFO  time: compiled scalajs-vite in 0.79s
+2026.03.27 11:12:03 INFO  no build target found for /home/heartbroken/m323/scalajs-vite/build.sbt. Using presentation compiler with project's scala-library version: 3.4.2
+2026.03.27 11:12:04 INFO  no build target found for /home/heartbroken/m323/scalajs-vite/build.sbt. Using presentation compiler with project's scala-library version: 3.4.2
+2026.03.27 11:12:04 WARN  no build target for: /home/heartbroken/m323/scalajs-vite/build.sbt
+2026.03.27 11:12:04 INFO  no build target found for /home/heartbroken/m323/scalajs-vite/build.sbt. Using presentation compiler with project's scala-library version: 3.4.2
+2026.03.27 11:12:04 INFO  no build target found for /home/heartbroken/m323/scalajs-vite/build.sbt. Using presentation compiler with project's scala-library version: 3.4.2
+2026.03.27 11:12:04 WARN  Could not find semantic tokens for: file:///home/heartbroken/m323/scalajs-vite/build.sbt
+2026.03.27 11:12:22 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:12:24 INFO  time: compiled scalajs-vite in 1.25s
+2026.03.27 11:12:24 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:12:25 INFO  time: compiled scalajs-vite in 0.84s
+2026.03.27 11:12:29 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:12:29 INFO  time: compiled scalajs-vite in 0.38s
+2026.03.27 11:12:32 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:12:32 INFO  time: compiled scalajs-vite in 0.34s
+2026.03.27 11:12:34 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:12:34 INFO  time: compiled scalajs-vite in 0.45s
+2026.03.27 11:12:40 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:12:40 INFO  time: compiled scalajs-vite in 0.34s
+2026.03.27 11:12:42 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:12:44 INFO  time: compiled scalajs-vite in 1.2s
+2026.03.27 11:12:45 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:12:45 INFO  time: compiled scalajs-vite in 0.88s
+2026.03.27 11:12:47 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:12:47 INFO  time: compiled scalajs-vite in 0.56s
+2026.03.27 11:12:49 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:12:49 INFO  time: compiled scalajs-vite in 0.5s
+2026.03.27 11:12:56 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:12:56 INFO  time: compiled scalajs-vite in 0.49s
+2026.03.27 11:13:02 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:13:02 INFO  time: compiled scalajs-vite in 0.27s
+2026.03.27 11:13:03 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:13:03 INFO  time: compiled scalajs-vite in 0.42s
+2026.03.27 11:13:07 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:13:07 INFO  time: compiled scalajs-vite in 0.53s
+2026.03.27 11:13:10 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:13:10 INFO  time: compiled scalajs-vite in 0.27s
+2026.03.27 11:13:11 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:13:11 INFO  time: compiled scalajs-vite in 0.45s
+2026.03.27 11:13:15 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:13:15 INFO  time: compiled scalajs-vite in 0.43s
+2026.03.27 11:13:20 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:13:20 INFO  time: compiled scalajs-vite in 0.46s
+2026.03.27 11:13:23 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:13:23 INFO  time: compiled scalajs-vite in 0.49s
+2026.03.27 11:13:26 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:13:26 INFO  time: compiled scalajs-vite in 0.25s
+2026.03.27 11:13:28 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:13:28 INFO  time: compiled scalajs-vite in 0.47s
+2026.03.27 11:13:32 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:13:32 INFO  time: compiled scalajs-vite in 0.54s
+2026.03.27 11:13:38 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:13:38 INFO  time: compiled scalajs-vite in 0.53s
+2026.03.27 11:13:40 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:13:40 INFO  time: compiled scalajs-vite in 0.26s
+2026.03.27 11:13:42 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:13:42 INFO  time: compiled scalajs-vite in 0.46s
+2026.03.27 11:13:49 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:13:49 INFO  time: compiled scalajs-vite in 0.43s
+2026.03.27 11:13:52 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:13:52 INFO  time: compiled scalajs-vite in 0.46s
+2026.03.27 11:22:27 INFO  compiling scalajs-vite (1 scala source)
+2026.03.27 11:22:27 INFO  time: compiled scalajs-vite in 0.93s
