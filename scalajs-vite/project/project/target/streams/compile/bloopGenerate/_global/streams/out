@@ -1,4 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0m[scalajs-vite-build-build] Classpath dependencies List()[0m
-[0m[[0m[0mdebug[0m] [0m[0m[scalajs-vite-build-build] Dependencies from configurations List()[0m
-[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'scalajs-vite-build-build' to '/home/heartbroken/m323/scalajs-vite/project/project/.bloop/scalajs-vite-build-build.json'[0m
-[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/scalajs-vite-build-build.json[0m
+[debug] [scalajs-vite-build-build] Classpath dependencies List()
+[debug] [scalajs-vite-build-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'scalajs-vite-build-build' to '/home/heartbroken/m323/scalajs-vite/project/project/.bloop/scalajs-vite-build-build.json'
+[success] Generated .bloop/scalajs-vite-build-build.json
